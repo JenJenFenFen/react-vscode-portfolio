@@ -2,8 +2,8 @@
 
 ## Summary
 
-I was born at Palembang, September 21st 1996. Graduated from Multi Data Palembang in 2018 with GPA 3,63. Like to learn a new things from materials and people's experiences, think out of the box, able to communicate well and work with my team. I'm going to contribute well in growth and development of the company by using my skills and my knowledges.
+I was born at Palembang, September 21st 1996. Graduated from Multi Data Palembang in 2018 with GPA 3,63. Happy to learn a new things either from materials or other people's experiences, able to think out of the box, and communicate and work well in a team. I'm going to work hard to contribute well in growth and development of the company (I'm working with) by using the best of my skills and my knowledges.
 
 ## About this Portfolio
 
-I got this project from noworneverev to make a portfolio with a the unique theme (VSCode). You can use it too at https://github.com/noworneverev/react-vscode-portfolio
+I got this website's template from **noworneverev** and used it to make a portfolio with a unique theme (VSCode theme). Link to the template: https://github.com/noworneverev/react-vscode-portfolio
