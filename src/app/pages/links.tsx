@@ -15,7 +15,7 @@ export const links = [
   {
     index: 1,
     title: "Find me on LinkedIn",
-    href: "https://www.linkedin.com/in/jennyver-seztiani-luxman-94193424a/",
+    href: "https://www.linkedin.com/in/jennyversl/",
     icon: <FaLinkedin />,
   },
   {
