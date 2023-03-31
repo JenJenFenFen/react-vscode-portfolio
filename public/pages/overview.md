@@ -2,7 +2,7 @@
 
 ## Summary
 
-I was born at Palembang, September 21st 1996. Graduated from Multi Data Palembang in 2018 with GPA 3,63. Happy to learn a new things either from materials or other people's experiences, able to think out of the box, and communicate and work well in a team. I'm going to work hard to contribute well in growth and development of the company (I'm working with) by using the best of my skills and my knowledges.
+Graduated from Multi Data Palembang in 2018 as Information Technology with GPA 3.63. Currently working as System Development Staff at Palembang and joining Fullstack Web Development Bootcamp at HariSenin. Has experience in maintaining fiture/system web and making table's reports. Has interest in Backend System and Database.
 
 ## About this Portfolio
 
