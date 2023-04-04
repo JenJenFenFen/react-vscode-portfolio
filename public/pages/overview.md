@@ -2,7 +2,7 @@
 
 ## Summary
 
-Graduated from Multi Data Palembang in 2018 as Information Technology with GPA 3.63. Currently working as System Development Staff at Palembang and joining Fullstack Web Development Bootcamp at HariSenin. Has experience in maintaining fiture/system web and making table's reports. Has interest in Backend System and Database.
+Graduated from Information Technology at Multi Data Palembang with cumlaute GPA. Worked as System Development Staff at Palembang and attended Fullstack Web Development Bootcamp at Harisenin.com. Experienced in maintain fiture/system web and create table's reports. Interested to learn Backend System and Database.
 
 ## About this Portfolio
 

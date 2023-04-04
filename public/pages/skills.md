@@ -8,12 +8,14 @@
 - CSS
 - JavaScript/JQuery
   - Node.js
-  - React.js
 
 ## Databases
 - MySQL
 - SQLite
 - PL/SQL
+
+## ORM
+- Sequelize
 
 ## VCS
 - Git
